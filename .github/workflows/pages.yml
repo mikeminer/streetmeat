@@ -39,10 +39,19 @@ jobs:
         run: node scripts/update-circulating-supply.mjs
       - name: Configure Pages
         uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
+      # actions/upload-pages-artifact excludes every dotfile (--exclude=".[^/]*"), which would drop
+      # docs/.well-known/assetlinks.json. Same archive format, but dotfiles are kept.
+      - name: Archive website (keeps .well-known)
+        run: |
+          test -f docs/.well-known/assetlinks.json
+          tar --dereference --hard-dereference --directory docs -cvf "$RUNNER_TEMP/artifact.tar" --exclude=.git --exclude=.github .
       - name: Upload website and verified supply snapshot
-        uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
         with:
-          path: docs
+          name: github-pages
+          path: ${{ runner.temp }}/artifact.tar
+          retention-days: 1
+          if-no-files-found: error
 
   deploy:
     needs: build

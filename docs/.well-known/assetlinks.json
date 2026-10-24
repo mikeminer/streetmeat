@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.streetmeat.game",
+      "sha256_cert_fingerprints": [
+        "6F:D7:80:9B:01:04:80:54:7F:03:D6:55:54:B0:B3:73:F7:2B:E7:36:73:2E:00:C6:92:0D:A3:C8:98:DD:BB:FB"
+      ]
+    }
+  }
+]

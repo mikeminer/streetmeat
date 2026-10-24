@@ -2,8 +2,8 @@
 
 Pitch e documentazione pubblica del progetto StreetMeat di mikeminer.
 
-- [Sito ufficiale](https://mikeminer.github.io/streetmeat/).
-- [Privacy Policy](https://mikeminer.github.io/streetmeat/privacy/) e [Terms of Use](https://mikeminer.github.io/streetmeat/terms/).
+- [Sito ufficiale](https://streetmeatgame.com/).
+- [Privacy Policy](https://streetmeatgame.com/privacy/) e [Terms of Use](https://streetmeatgame.com/terms/).
 - [Pitch Halloween](docs/StreetMeat-Halloween-Pitch.pdf).
 - [Avviso sui diritti](LICENSE.txt).
 - [Note sui materiali e sui diritti](THIRD_PARTY_NOTICES.md).
