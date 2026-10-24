@@ -1,0 +1,6 @@
+# Audio and delivery bundles are retained locally, not published in this repo.
+/audio/
+*.wav
+*.zip
+__pycache__/
+*.py[cod]

@@ -1,0 +1,28 @@
+STREETMEAT — PROPRIETARY RIGHTS NOTICE
+
+Copyright (c) 2026 mikeminer.
+All rights reserved, to the extent those rights are owned by the rights holder
+and protected under applicable law.
+
+This notice covers the original StreetMeat code, documentation, artwork and
+other project materials in which the rights holder owns the relevant rights.
+It does not claim ownership of third-party materials or rights that do not exist.
+
+Except as required by applicable law, permitted by binding platform terms, or
+expressly authorized in a separate written agreement with the rights holder,
+no permission is granted to use, reproduce, modify, adapt, distribute,
+sublicense, sell or otherwise exploit those protected materials.
+
+Access to this repository does not itself grant a game-player license,
+development license, asset-reuse license or commercial distribution license.
+Those permissions may be granted separately in writing by the rights holder,
+within the limits of the rights the rights holder can lawfully grant.
+
+Third-party components and AI-generated materials remain subject to their
+applicable terms and legal status. This notice does not supersede those terms,
+guarantee copyright protection or exclusivity in AI output, or grant rights to
+redistribute ElevenLabs sound effects as standalone audio files or sound packs.
+See THIRD_PARTY_NOTICES.md.
+
+No trademark license is granted by this notice. Statutory rights and exceptions
+that cannot lawfully be excluded remain unaffected.
