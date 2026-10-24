@@ -45,6 +45,8 @@ nav a:hover { color: var(--acid); text-decoration: underline; }
 .button { display: inline-flex; justify-content: center; align-items: center; gap: 2rem; min-height: 50px; padding: .8rem 1.2rem; background: var(--acid); border: 1px solid var(--acid); color: var(--night); font-weight: 750; text-decoration: none; }
 .button:hover { background: var(--cream); border-color: var(--cream); color: var(--night); }
 .button span { font-size: 1.25rem; line-height: 1; }
+.store-badge { display: block; width: min(232px, 100%); margin-top: 1.3rem; border-radius: 12px; }
+.store-badge img { width: 100%; height: auto; }
 .release-status { margin: .9rem 0 0; color: var(--cream); font-size: .8rem; }
 .hero-art { margin: 0; border: 1px solid var(--line); background: #050608; }
 .hero-art > img { width: 100%; aspect-ratio: 2; object-fit: contain; }

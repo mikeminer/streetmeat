@@ -34,6 +34,12 @@ Fonti:
 
 ## Pitch e altri materiali del gioco
 
+Il badge `docs/assets/solana-dapp-store-badge.png` proviene dalla
+[cartella Solana dApp Store indicata dal titolare](https://drive.google.com/drive/u/1/folders/1LC1h-VjfJqP6RwkdjaFrwBF_xQfBLKpQ).
+Il file originale “Solana dApp Store Badge Teal.png” è utilizzato senza modifiche
+per collegare la scheda `app.streetmeat.game`. I marchi Solana e Solana Mobile
+restano dei rispettivi titolari; il badge non indica l'approvazione del gioco.
+
 Il PDF `docs/StreetMeat-Halloween-Pitch.pdf` è stato fornito dal titolare del
 progetto. La provenienza e le eventuali licenze di immagini, font, loghi e altri
 elementi incorporati non sono state esaminate. La riserva dei diritti copre
