@@ -1,5 +1,15 @@
 # Audio and delivery bundles are retained locally, not published in this repo.
 /audio/
+# Local publishing package includes private source/audio and a credential-bearing APK.
+/store-package/
+# Android signing material and runtime credentials must stay local.
+*.jks
+*.keystore
+keystore.properties
+*.keystore.properties
+.env
+.env.*
+!.env.example
 *.wav
 *.zip
 __pycache__/

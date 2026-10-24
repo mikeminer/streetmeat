@@ -39,8 +39,9 @@ progetto. La provenienza e le eventuali licenze di immagini, font, loghi e altri
 elementi incorporati non sono state esaminate. La riserva dei diritti copre
 soltanto quanto effettivamente posseduto o legittimamente concedibile.
 
-Nella cartella attuale non è presente il codice del gioco: dipendenze, engine,
-asset esterni e contributi di eventuali collaboratori non sono stati verificati.
+Il codice del gioco e il pacchetto di pubblicazione sono conservati in locale,
+fuori da questo repository pubblico. Le verifiche tecniche del pacchetto non
+certificano i diritti su dipendenze, asset esterni o contributi di collaboratori.
 
 ## Protezione e visibilità
 
