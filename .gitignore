@@ -14,3 +14,6 @@ keystore.properties
 *.zip
 __pycache__/
 *.py[cod]
+# Supply snapshots are generated from Solana during each Pages deployment.
+/docs/api/circulating-supply.json
+/docs/api/supply-details.json
