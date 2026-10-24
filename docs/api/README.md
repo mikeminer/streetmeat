@@ -2,7 +2,9 @@
 
 Public endpoint for Jupiter:
 
-https://mikeminer.github.io/streetmeat/api/circulating-supply.json
+https://streetmeatgame.com/api/circulating-supply.json
+
+(The old address https://mikeminer.github.io/streetmeat/api/circulating-supply.json redirects here.)
 
 It returns one JSON object with a numeric `circulatingSupply`, denominated in whole MEAT tokens (not base units).
 
